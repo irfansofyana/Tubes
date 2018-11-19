@@ -1,0 +1,2 @@
+Fungsi tersebut adalah p(x) = 0.8051 + (-0.2454)x^1 + (0.0069)x^2 + (0.0136)x^3 + (-0.0030)x^4 + (0.0002)x^5
+Maka nilai taksiran fungsi pada 2.000000 adalah p(2.000000) = 0.408426
